@@ -1,0 +1,9 @@
+key,value
+x_jobs_per_burst,25
+short_gap_seconds,1
+long_gap_minutes,1
+max_concurrent_submissions,8
+max_retries,3
+default_command_secondary,#none
+log_level,INFO
+

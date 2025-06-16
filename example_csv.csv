@@ -1,0 +1,2 @@
+job_name,input_files,num_cores,walltime,analysis_codes,analysis_versions,hardware_type,command
+myJob1,case1.in;mesh.msh,4,24,openfoam_plus;ansys_mechanical,v2312+-intelmpi;2024r2,emerald,touch test.txt
