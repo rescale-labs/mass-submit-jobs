@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 MSJ v0.01 – Mass Job Submit to Rescale
-Author: Your rocker‑bro‑knight  🤘
 
 Usage:
     python msj_submit.py [--dry-run] [--config FILE]
